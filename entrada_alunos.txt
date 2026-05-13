@@ -1,0 +1,5 @@
+001 - Leonardo Silva - ADS - Nota: 10
+002 - Andrea Cerqueira - SI - Nota: 4.5
+003 - Giovanna Dias - ADS - Nota: 9.7
+004 - Luciano Arnaldo - CC - Nota: 6.7
+005 - Karen Mayara - SI - Nota: 4,2

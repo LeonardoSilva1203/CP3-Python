@@ -1,0 +1,6 @@
+[
+    {"id": 6, "nome": "Caique Rodrigues", "curso": "ADS", "nota": 7.6},
+    {"id": 7, "nome": "Enrico Machado", "curso": "CC", "nota": 9.4},
+    {"id": 8, "nome": "Junior Martins", "curso": "SI", "nota":  1.7},
+    {"id": 9, "nome": "Robson Bianqini", "curso": "ADS", "nota": 7.0}
+]
